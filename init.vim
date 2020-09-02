@@ -8,6 +8,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'jalvesaq/Nvim-R', {'branch': 'stable'}
 Plug 'vimwiki/vimwiki'
 Plug 'jalvesaq/vimcmdline'
+Plug 'tpope/vim-fugitive'
 call plug#end()
 
 " Nvim-R
